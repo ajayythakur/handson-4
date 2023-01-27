@@ -10,7 +10,7 @@ const Students = () => {
   return (
     <div>
       <text id='heading'>Students Details</text>
-      <Link to='addnewstudent'>
+      <Link to='addnewstudent'> 
         <button id='ansbtn'>Add New Student</button>
         </Link>
         <table width='100%'>
